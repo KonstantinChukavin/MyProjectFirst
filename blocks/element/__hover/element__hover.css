@@ -1,0 +1,11 @@
+.element__hover {
+    margin: 0;
+}
+
+.element__hover:hover {
+    opacity: 0.5;
+}
+
+.element__hover:target {
+    background: url(../../../images/elements/Union.svg);
+}
