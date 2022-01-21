@@ -11,13 +11,13 @@
     .elements {
         padding: 47px 6% 0;
         grid-template-columns: repeat(2, 1fr);
-        gap: 20px  17px;
+        gap: 20px 17px;
     } 
 }
 
 @media screen and (min-width: 1280px) {
     .elements {
-        padding: 47px 200px 0 200px;
+        padding: 47px 200px 0;
         grid-template-columns: repeat(3, 1fr);
     } 
 }
